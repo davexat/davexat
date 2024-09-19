@@ -1,10 +1,10 @@
 <h1 align="center"> Hello World 👋 </h1>
 
-I wanna be a Full Stack Developer and Ma
+<h3 align="center">I wanna be a Full Stack Developer and ML expert</h3>
 
 ### Currently Learning 🌱
 
-* Machine Learning with Python
+* Machine Learning
 * ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
 * ![Static Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 
