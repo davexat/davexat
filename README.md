@@ -20,6 +20,7 @@
 * [20 Preguntas](https://github.com/davexat/20preguntas)
 ## Currently Learning 🌱
 * Machine Learning
+* ![Static Badge](https://img.shields.io/badge/Pandas-150458?logo=pandas)
 * ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
 * ![Static Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 
