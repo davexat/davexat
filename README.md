@@ -3,7 +3,6 @@
 <h3 align="center">I wanna be a Full Stack Developer and ML expert</h3>
 
 ## Interests
-* Christianity
 * Software Development
 * Machine Learning
 ## Languages & tools 💻
