@@ -54,16 +54,6 @@
 
 ---
 
-<h3 align="center">Music</h3>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31elp7ahchvho72sqhqzfny7uduy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31elp7ahchvho72sqhqzfny7uduy&count=4" alt="Spotify recently played"  />
-  </a>
-</div>
-
----
-
 <h3 align="center">Trophys</h3>
 
 <div align="center">
