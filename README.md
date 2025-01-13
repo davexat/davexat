@@ -31,8 +31,8 @@
 ## Stats
 
 <div align="center" padding="5">
-  <img src="https://github-readme-stats.vercel.app/api?username=davexat&show_icons=true&theme=tokyonight" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davexat&langs_count=6&theme=tokyonight&layout=compact" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=davexat&show_icons=true&theme=tokyonight" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davexat&langs_count=6&theme=tokyonight&layout=compact" height="190"/>
 </div>
 
 <div align="center">
