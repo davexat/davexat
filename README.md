@@ -26,6 +26,7 @@
 
 ## Currently Learning 🌱
 * ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
+* ![Static Badge](https://img.shields.io/badge/Angular-0F0F11?logo=angular&lohoColor=white)
 * ![Static Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 
 ## Stats
