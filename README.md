@@ -1,6 +1,6 @@
 <h1 align="center"> Hello World 👋 </h1>
 
-<h3 align="center">I wanna be a Full Stack Developer and ML expert</h3>
+<h3 align="center">I will be a Full Stack Developer and ML expert</h3>
 
 ## Interests ✨
 * Software Development
