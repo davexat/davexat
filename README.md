@@ -38,4 +38,4 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=davexat&theme=tokyonight&column=8&row=1&margin-w=5" height="100"/>
-</div
+</div>
