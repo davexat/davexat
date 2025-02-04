@@ -11,20 +11,20 @@
 
 <div align="center">
 
-![Static Badge](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white&logoSize=auto&labelColor=%233776AB)
-![Static Badge](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto&labelColor=%234479A1)
-![Static Badge](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=white&logoSize=auto&labelColor=%23150458)
-![Static Badge](https://img.shields.io/badge/Numpy-black?style=for-the-badge&logo=numpy&logoColor=white&logoSize=auto&labelColor=%23013243)
-![Static Badge](https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=jupyter&logoColor=white&logoSize=auto&labelColor=%23F37626)
-![Static Badge](https://img.shields.io/badge/ScikitLearn-black?style=for-the-badge&logo=scikitlearn&logoColor=white&logoSize=auto&labelColor=%23F7931E)
-![Static Badge](https://img.shields.io/badge/Streamlit-black?style=for-the-badge&logo=streamlit&logoColor=white&logoSize=auto&labelColor=%23FF4B4B)
-![Static Badge](https://img.shields.io/badge/Java-black?style=for-the-badge&logoColor=white&logoSize=auto&labelColor=red)
-![Static Badge](https://img.shields.io/badge/JUnit-black?style=for-the-badge&logo=junit5&logoColor=white&logoSize=auto&labelColor=%2325A162)
-![Static Badge](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto&labelColor=%23E34F26)
-![Static Badge](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css&logoColor=white&logoSize=auto&labelColor=%23663399)
-![Static Badge](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white&logoSize=auto&labelColor=%23F05032)
-![Static Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&labelColor=%23181717)
-![Static Badge](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=white&logoSize=auto&labelColor=%A8B9CC)
+<a href="#">![Static Badge](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white&logoSize=auto&labelColor=%233776AB)</a>
+<a href="#">![Static Badge](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto&labelColor=%234479A1)</a>
+<a href="#">![Static Badge](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=white&logoSize=auto&labelColor=%23150458)</a>
+<a href="#">![Static Badge](https://img.shields.io/badge/Numpy-black?style=for-the-badge&logo=numpy&logoColor=white&logoSize=auto&labelColor=%23013243)</a>
+<a href="#">![Static Badge](https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=jupyter&logoColor=white&logoSize=auto&labelColor=%23F37626)</a>
+<a href="#">![Static Badge](https://img.shields.io/badge/ScikitLearn-black?style=for-the-badge&logo=scikitlearn&logoColor=white&logoSize=auto&labelColor=%23F7931E)</a>
+<a href="#">![Static Badge](https://img.shields.io/badge/Streamlit-black?style=for-the-badge&logo=streamlit&logoColor=white&logoSize=auto&labelColor=%23FF4B4B)</a>
+<a href="#">![Static Badge](https://img.shields.io/badge/Java-black?style=for-the-badge&logoColor=white&logoSize=auto&labelColor=red)</a>
+<a href="#">![Static Badge](https://img.shields.io/badge/JUnit-black?style=for-the-badge&logo=junit5&logoColor=white&logoSize=auto&labelColor=%2325A162)</a>
+<a href="#">![Static Badge](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto&labelColor=%23E34F26)</a>
+<a href="#">![Static Badge](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css&logoColor=white&logoSize=auto&labelColor=%23663399)</a>
+<a href="#">![Static Badge](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white&logoSize=auto&labelColor=%23F05032)</a>
+<a href="#">![Static Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&labelColor=%23181717)</a>
+<a href="#">![Static Badge](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=white&logoSize=auto&labelColor=%23A8B9CC)</a>
 
 </div>
 
@@ -34,18 +34,18 @@
 * [20 Preguntas](https://github.com/davexat/20preguntas)
 
 ## Currently Learning 🌱
-![Static Badge](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto&labelColor=%23d8c108)
-![Static Badge](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white&logoSize=auto&labelColor=%233178C6)
-![Static Badge](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=white&logoSize=auto&labelColor=%230F0F11)
-![Static Badge](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white&logoSize=auto&labelColor=%23289ebe)
+<a href="#">![Static Badge](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto&labelColor=%23d8c108)</a>
+<a href="#">![Static Badge](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white&logoSize=auto&labelColor=%233178C6)</a>
+<a href="#">![Static Badge](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=white&logoSize=auto&labelColor=%230F0F11)</a>
+<a href="#">![Static Badge](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white&logoSize=auto&labelColor=%23289ebe)</a>
 
 ## Stats
 
 <div align="center" padding="5">
-  <img src="https://github-readme-stats.vercel.app/api?username=davexat&show_icons=true&theme=tokyonight" height="190"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davexat&langs_count=6&theme=tokyonight&layout=compact" height="190"/>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=davexat&show_icons=true&theme=tokyonight" height="190"/></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=davexat&langs_count=6&theme=tokyonight&layout=compact" height="190"/></a>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=davexat&theme=tokyonight&column=8&row=1&margin-w=5" height="100"/>
+  <a href="#"><img src="https://github-profile-trophy.vercel.app?username=davexat&theme=tokyonight&column=8&row=1&margin-w=5" height="100"/></a>
 </div>
