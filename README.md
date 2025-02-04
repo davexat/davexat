@@ -1,6 +1,6 @@
 <h1 align="center"> Hello World 👋 </h1>
 
-<h3 align="center">I will be a Full Stack Developer and ML expert</h3>
+<h3 align="center">I will be a Full Stack Developer and AI expert</h3>
 
 ## Interests ✨
 * Software Development
@@ -20,7 +20,7 @@
 ![Static Badge](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 
 ## Projects 🖥
-* [Customer Segmentation Dashboard](https://github.com/davexat/Client_Segmentation_Dashboard)
+* [Customer Segmentation Dashboard](https://github.com/davexat/Customer_Segmentation_Dashboard)
 * [Schedule Creator](https://github.com/davexat/Schedule-Creator)
 * [20 Preguntas](https://github.com/davexat/20preguntas)
 
