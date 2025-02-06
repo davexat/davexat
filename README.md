@@ -20,6 +20,7 @@
 <a href="#">![Static Badge](https://img.shields.io/badge/Streamlit-black?style=for-the-badge&logo=streamlit&logoColor=white&logoSize=auto&labelColor=%23FF4B4B)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/Java-black?style=for-the-badge&logoColor=white&logoSize=auto&labelColor=red)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/JUnit-black?style=for-the-badge&logo=junit5&logoColor=white&logoSize=auto&labelColor=%2325A162)</a>
+<a href="#">![Static Badge](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto&labelColor=%23d8c108)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto&labelColor=%23E34F26)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css&logoColor=white&logoSize=auto&labelColor=%23663399)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass&logoColor=white&logoSize=auto&labelColor=%23CC6699)</a>
@@ -35,7 +36,6 @@
 * [20 Preguntas](https://github.com/davexat/20preguntas)
 
 ## Currently Learning 🌱
-<a href="#">![Static Badge](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto&labelColor=%23d8c108)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white&logoSize=auto&labelColor=%233178C6)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=white&logoSize=auto&labelColor=%230F0F11)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white&logoSize=auto&labelColor=%23289ebe)</a>
