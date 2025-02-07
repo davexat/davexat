@@ -24,6 +24,9 @@
 <a href="#">![Static Badge](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto&labelColor=%23E34F26)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css&logoColor=white&logoSize=auto&labelColor=%23663399)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass&logoColor=white&logoSize=auto&labelColor=%23CC6699)</a>
+<a href="#">![Static Badge](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white&logoSize=auto&labelColor=%23289ebe)</a>
+<a href="#">![Static Badge](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=%235FA04E)</a>
+<a href="#">![Static Badge](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=%23000000)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white&logoSize=auto&labelColor=%23F05032)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&labelColor=%23181717)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=white&logoSize=auto&labelColor=%23A8B9CC)</a>
@@ -38,7 +41,6 @@
 ## Currently Learning 🌱
 <a href="#">![Static Badge](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white&logoSize=auto&labelColor=%233178C6)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=white&logoSize=auto&labelColor=%230F0F11)</a>
-<a href="#">![Static Badge](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white&logoSize=auto&labelColor=%23289ebe)</a>
 
 ## Stats
 
