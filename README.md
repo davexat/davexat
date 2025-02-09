@@ -36,7 +36,6 @@
 ## Projects 🖥
 * [Customer Segmentation Dashboard](https://github.com/davexat/Customer_Segmentation_Dashboard)
 * [Curriculum Vitae](https://github.com/davexat/curriculum)
-* [Schedule Creator](https://github.com/davexat/Schedule-Creator)
 * [20 Preguntas](https://github.com/davexat/20preguntas)
 
 ## Currently Learning 🌱
