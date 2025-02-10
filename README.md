@@ -13,6 +13,7 @@
 
 <a href="#">![Static Badge](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white&logoSize=auto&labelColor=%233776AB)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto&labelColor=%234479A1)</a>
+<a href="#">![Static Badge](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto&labelColor=%234169E1)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=white&logoSize=auto&labelColor=%23150458)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/Numpy-black?style=for-the-badge&logo=numpy&logoColor=white&logoSize=auto&labelColor=%23013243)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=jupyter&logoColor=white&logoSize=auto&labelColor=%23F37626)</a>
