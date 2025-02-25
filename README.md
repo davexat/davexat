@@ -19,6 +19,7 @@
 <a href="#">![Static Badge](https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=jupyter&logoColor=white&logoSize=auto&labelColor=%23F37626)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/Plotly-black?style=for-the-badge&logo=plotly&logoColor=white&logoSize=auto&labelColor=%233F4F75)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logoColor=white&logoSize=auto&labelColor=%231f77b4)</a>
+<a href="#">![Static Badge](https://img.shields.io/badge/Seaborn-black?style=for-the-badge&logoColor=white&logoSize=auto&labelColor=%231f77b4)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/ScikitLearn-black?style=for-the-badge&logo=scikitlearn&logoColor=white&logoSize=auto&labelColor=%23F7931E)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/Streamlit-black?style=for-the-badge&logo=streamlit&logoColor=white&logoSize=auto&labelColor=%23FF4B4B)</a>
 <a href="#">![Static Badge](https://img.shields.io/badge/Java-black?style=for-the-badge&logoColor=white&logoSize=auto&labelColor=red)</a>
