@@ -9,7 +9,7 @@
 
 ## Languages & tools 💻
 
-<div align="center" padding="5">
+<p align="center" padding="5">
   
   ![Static Badge](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white&logoSize=auto&labelColor=%233776AB)
   ![Static Badge](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto&labelColor=%234479A1)
@@ -35,7 +35,7 @@
   ![Static Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&labelColor=%23181717)
   ![Static Badge](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=white&logoSize=auto&labelColor=%23A8B9CC)
   
-</div>
+</p>
 
 ## Projects 🖥
 * [Customer Segmentation Dashboard](https://github.com/davexat/Customer_Segmentation_Dashboard)
@@ -48,11 +48,11 @@
 
 ## Stats
 
-<div align="center" padding="5">
+<p align="center" padding="5">
   <img src="https://github-readme-stats.vercel.app/api?username=davexat&show_icons=true&theme=tokyonight" height="190"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davexat&langs_count=6&theme=tokyonight&layout=compact" height="190"/>
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app?username=davexat&theme=tokyonight&column=8&row=1&margin-w=5" height="100"/>
-</div>
+</p>
