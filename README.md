@@ -112,14 +112,14 @@
 <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white&labelColor=%233178C6" alt="TypeScript Badge">
 <img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=white&labelColor=%230F0F11" alt="Angular Badge">
 
-<!--
+
 ## 📊 Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=davexat&show_icons=true&theme=tokyonight" height="190"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davexat&langs_count=6&theme=tokyonight&layout=compact" height="190"/>
 </div>
-
+<!--
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=davexat&theme=tokyonight&column=8&row=1&margin-w=5" height="96.7"/>
 </div>
