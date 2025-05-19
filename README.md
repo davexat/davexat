@@ -3,11 +3,18 @@
   <h3>Software/Web Developer and Data Analyst with a passion for AI.</h3>
 </div>
 
-## ✨ Interests
+## 👨‍💻 About Me
 
-* Software & Web Development  
-* Artificial Intelligence  
-* Data Science, Analysis & Engineering  
+- 🎓 Student at Escuela Superior Politécnica del Litoral (ESPOL), Ecuador   
+- 📧 Email: daelsand@espol.edu.ec 
+- 💼 LinkedIn:  [link](https://linkedin.com/in/david-sandoval-bernitta)
+- 🗂️ Portfolio: [link](https://davexat.vercel.app/#projects)
+
+## 💡 Interests
+  - 💻 Software & Web Development  
+  - 🤖 Artificial Intelligence  
+  - 📊 Data Science, Analysis & Engineering  
+  - 🌐 Languages 
 
 ## 💻 Languages & Tools
 
