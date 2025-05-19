@@ -38,9 +38,37 @@
 </div>
 
 ## Projects 🖥
-* [Customer Segmentation Dashboard](https://github.com/davexat/Customer_Segmentation_Dashboard)
-* [Curriculum Vitae](https://github.com/davexat/curriculum)
-* [20 Preguntas](https://github.com/davexat/20preguntas)
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>📊 Customer Churn Predictor</h4>
+      <p>Predictive model using XGBoost to identify customers likely to churn.</p>
+      <p><strong>Technologies:</strong> Seaborn, Pandas, XGBoost, Power BI</p>
+      <a href="https://github.com/davexat/Customer_Churn_Predictor">📎 Repository</a>
+    </td>
+    <td valign="top" width="50%">
+      <h4>📈 Customer Segmentation Dashboard</h4>
+      <p>Interactive dashboard for visualizing customer clusters and behavioral patterns.</p>
+      <p><strong>Technologies:</strong> Seaborn, Pandas, Scikit-learn, Streamlit</p>
+      <a href="https://github.com/davexat/Customer_Segmentation_Dashboard">📎 Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>🧾 Curriculum Vitae</h4>
+      <p>My CV as a responsive and modern web page using semantic HTML and CSS.</p>
+      <p><strong>Technologies:</strong> HTML, CSS, JavaScript, Sass</p>
+      <a href="https://github.com/davexat/curriculum">📎 Repository</a>
+    </td>
+    <td valign="top" width="50%">
+      <h4>🧠 20 Questions</h4>
+      <p>Classic animal guessing game using a binary decision tree to infer the answer from yes/no questions.</p>
+      <p><strong>Technologies:</strong> Java, JavaFX</p>
+      <a href="https://github.com/davexat/20preguntas">📎 Repository</a>
+    </td>
+  </tr>
+</table>
 
 ## Currently Learning 🌱
 <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white&labelColor=%233178C6" alt="TypeScript Badge">
