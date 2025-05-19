@@ -3,9 +3,9 @@
 <h3 align="center">Web & Software developer and Data Analyst appasionate by AI</h3>
 
 ## Interests ✨
-* Software Development
-* Web Development
+* Software & Web Development
 * Artificial Intelligence
+* Data Science, Analysis & Engineering
 
 ## Languages & tools 💻
 
@@ -43,8 +43,8 @@
 * [20 Preguntas](https://github.com/davexat/20preguntas)
 
 ## Currently Learning 🌱
-![Static Badge](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white&logoSize=auto&labelColor=%233178C6)
-![Static Badge](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=white&logoSize=auto&labelColor=%230F0F11)
+<img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white&labelColor=%233178C6" alt="TypeScript Badge">
+<img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=white&labelColor=%230F0F11" alt="Angular Badge">
 
 ## Stats
 
