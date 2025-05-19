@@ -1,16 +1,20 @@
-<h1 align="center"> Hello World 👋 </h1>
-
-<h3 align="center">Software/Web developer and Data Analyst with a passion for AI.</h3>
-
-## Interests ✨
-* Software & Web Development
-* Artificial Intelligence
-* Data Science, Analysis & Engineering
-
-## Languages & tools 💻
-
 <div align="center">
 
+# 👋 Hello World
+
+### Software/Web Developer and Data Analyst with a passion for AI.
+
+</div>
+
+## ✨ Interests
+
+* Software & Web Development  
+* Artificial Intelligence  
+* Data Science, Analysis & Engineering  
+
+## 💻 Languages & Tools
+
+<div align="center">
 <table>
   <tr>
     <td valign="top" colspan="2" style="text-align: center;">
@@ -58,30 +62,29 @@
     </td>
   </tr>
 </table>
-
 </div>
 
-## Projects 🖥
+## 🖥 Projects
 
 <table>
   <tr>
     <td valign="top" width="50%">
       <h4>📊 Customer Churn Predictor</h4>
-      <p>Predictive model using XGBoost to identify customers likely to churn.</p>
-      <p><strong>Technologies:</strong> Seaborn, Pandas, XGBoost, Power BI</p>
+      <p>Predictive model using XGBoost to identify bank customers likely to churn based on behavioral and demographic features. Integrated with Power BI dashboards for stakeholders.</p>
+      <p><strong>Technologies:</strong> Pandas, Seaborn, XGBoost, Power BI</p>
       <a href="https://github.com/davexat/Customer_Churn_Predictor">📎 Repository</a>
     </td>
     <td valign="top" width="50%">
       <h4>📈 Customer Segmentation Dashboard</h4>
-      <p>Interactive dashboard for visualizing customer clusters and behavioral patterns.</p>
-      <p><strong>Technologies:</strong> Seaborn, Pandas, Scikit-learn, Streamlit</p>
+      <p>Interactive Streamlit app for clustering and visualizing customer segments based on behavior and demographics.</p>
+      <p><strong>Technologies:</strong> Pandas, Scikit-learn, Seaborn, Streamlit</p>
       <a href="https://github.com/davexat/Customer_Segmentation_Dashboard">📎 Repository</a>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
       <h4>🧾 Curriculum Vitae</h4>
-      <p>My CV as a responsive and modern web page using semantic HTML and CSS.</p>
+      <p>My CV as a responsive and modern single-page website using semantic HTML and SCSS architecture.</p>
       <p><strong>Technologies:</strong> HTML, CSS, JavaScript, Sass</p>
       <a href="https://github.com/davexat/curriculum">📎 Repository</a>
     </td>
@@ -94,11 +97,18 @@
   </tr>
 </table>
 
-## Currently Learning 🌱
+## 🌱 Currently Learning
+
 <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white&labelColor=%233178C6" alt="TypeScript Badge">
 <img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=white&labelColor=%230F0F11" alt="Angular Badge">
 
-## Stats
+## 🏅 Certifications
+
+* Associate Data Analyst – DataCamp
+* Python Data Associate - DataCamp
+* SQL Associate - DataCamp
+
+## 📊 Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=davexat&show_icons=true&theme=tokyonight" height="190"/>
