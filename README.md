@@ -1,9 +1,6 @@
 <div align="center">
-
-# 👋 Hello World
-
-### Software/Web Developer and Data Analyst with a passion for AI.
-
+  <h1>👋 Hello World</h1>
+  <h3>Software/Web Developer and Data Analyst with a passion for AI.</h3>
 </div>
 
 ## ✨ Interests
