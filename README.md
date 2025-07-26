@@ -44,9 +44,10 @@
       <div align="center">
         <h4>Web Development</h4>
         <p><i>Languages and frameworks for building dynamic, interactive and responsive web apps.</i></p>
+        <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white&labelColor=%233178C6" alt="TypeScript Badge">
         <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white&labelColor=%23d8c108" alt="JavaScript Badge">
         <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23E34F26" alt="HTML Badge">
-        <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=white&labelColor=%23663399" alt="CSS Badge">
+        <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css&logoColor=white&labelColor=%23663399" alt="CSS Badge">
         <img src="https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass&logoColor=white&labelColor=%23CC6699" alt="Sass Badge">
         <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white&labelColor=%23289ebe" alt="React Badge">
         <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=%235FA04E" alt="Node.js Badge">
@@ -93,9 +94,9 @@
       <a href="https://github.com/davexat/curriculum">📎 Repository</a>
     </td>
     <td valign="top" width="50%">
-      <h4>🧠 20 Questions</h4>
-      <p>Classic animal guessing game using a binary decision tree to infer the answer from yes/no questions.</p>
-      <p><strong>Technologies:</strong> Java, JavaFX</p>
+      <h4>🌤️ Weather Dashboard AI</h4>
+      <p>Weather Dashboard is a modern PWA that displays real-time and forecasted weather data, interactive charts, alerts, and an AI assistant for any city.</p>
+      <p><strong>Technologies:</strong> React, TypeScript</p>
       <a href="https://github.com/davexat/20preguntas">📎 Repository</a>
     </td>
   </tr>
@@ -109,8 +110,8 @@
 
 ## 🌱 Currently Learning
 
-<img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white&labelColor=%233178C6" alt="TypeScript Badge">
 <img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=white&labelColor=%230F0F11" alt="Angular Badge">
+<img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=white&labelColor=%23092E20" alt="Django Badge">
 
 
 ## 📊 Stats
