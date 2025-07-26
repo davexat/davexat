@@ -97,7 +97,7 @@
       <h4>🌤️ Weather Dashboard AI</h4>
       <p>Weather Dashboard is a modern PWA that displays real-time and forecasted weather data, interactive charts, alerts, and an AI assistant for any city.</p>
       <p><strong>Technologies:</strong> React, TypeScript</p>
-      <a href="https://github.com/davexat/20preguntas">📎 Repository</a>
+      <a href="https://github.com/davexat/dashboard">📎 Repository</a>
     </td>
   </tr>
 </table>
