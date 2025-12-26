@@ -44,14 +44,17 @@
       <div align="center">
         <h4>Web Development</h4>
         <p><i>Languages and frameworks for building dynamic, interactive and responsive web apps.</i></p>
-        <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white&labelColor=%233178C6" alt="TypeScript Badge">
-        <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white&labelColor=%23d8c108" alt="JavaScript Badge">
         <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23E34F26" alt="HTML Badge">
         <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css&logoColor=white&labelColor=%23663399" alt="CSS Badge">
+        <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white&labelColor=%23d8c108" alt="JavaScript Badge">
+        <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white&labelColor=%233178C6" alt="TypeScript Badge">
         <img src="https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass&logoColor=white&labelColor=%23CC6699" alt="Sass Badge">
+        <img src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=%2306B6D4" alt="Sass Badge">
         <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white&labelColor=%23289ebe" alt="React Badge">
         <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=%235FA04E" alt="Node.js Badge">
         <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=%23000000" alt="Next.js Badge">
+        <img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=white&labelColor=%23092E20" alt="Django Badge">
+        <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white&labelColor=%23F24E1E" alt="Figma Badge">
       </div>
     </td>
     <td valign="top" style="text-align: center;">
@@ -74,10 +77,10 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h4>📊 Customer Churn Predictor</h4>
-      <p>Predictive model using XGBoost to identify bank customers likely to churn based on behavioral and demographic features. Integrated with Power BI dashboards for stakeholders.</p>
-      <p><strong>Technologies:</strong> Pandas, Seaborn, XGBoost, Power BI</p>
-      <a href="https://github.com/davexat/Customer_Churn_Predictor">📎 Repository</a>
+      <h4>📊 Django Api Suite</h4>
+      <p>Django REST API with user management, Firebase integration, and a responsive homepage for modern web apps.</p>
+      <p><strong>Technologies:</strong> React, TypeScript, Openweather API, Vite, MUI</p>
+      <a href="https://github.com/davexat/django_api_suite">📎 Repository</a>
     </td>
     <td valign="top" width="50%">
       <h4>📈 Customer Segmentation Dashboard</h4>
@@ -89,13 +92,13 @@
   <tr>
     <td valign="top" width="50%">
       <h4>🧾 Curriculum Vitae</h4>
-      <p>My CV as a responsive and modern single-page website using semantic HTML and SCSS architecture.</p>
-      <p><strong>Technologies:</strong> HTML, CSS, JavaScript, Sass</p>
+      <p>Personal portfolio website showcasing skills, projects, and professional experience.</p>
+      <p><strong>Technologies:</strong> React, Next.js, Typescript, TailwindCSS</p>
       <a href="https://github.com/davexat/curriculum">📎 Repository</a>
     </td>
     <td valign="top" width="50%">
       <h4>🌤️ Weather Dashboard AI</h4>
-      <p>Weather Dashboard is a modern PWA that displays real-time and forecasted weather data, interactive charts, alerts, and an AI assistant for any city.</p>
+      <p>A modern PWA that displays real-time and forecasted weather data, interactive charts, alerts, and an AI assistant for any city.</p>
       <p><strong>Technologies:</strong> React, TypeScript</p>
       <a href="https://github.com/davexat/dashboard">📎 Repository</a>
     </td>
@@ -110,18 +113,13 @@
 
 ## 🌱 Currently Learning
 
-<img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=white&labelColor=%230F0F11" alt="Angular Badge">
-<img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=white&labelColor=%23092E20" alt="Django Badge">
-
+* Data Engineering
+* Deutsch
+* Data Science
 
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davexat&show_icons=true&theme=tokyonight" height="190"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davexat&langs_count=6&theme=tokyonight&layout=compact" height="190"/>
+  <img src="https://readme-davexat.vercel.app/api?username=davexat&show_icons=true&theme=holi"/>
+  <img src="https://readme-davexat.vercel.app/api/top-langs?username=davexat&langs_count=10&theme=holi&layout=compact&hide_progress=true"/>
 </div>
-<!--
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=davexat&theme=tokyonight&column=8&row=1&margin-w=5" height="96.7"/>
-</div>
--->
